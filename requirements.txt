@@ -1,0 +1,12 @@
+torch>=2.8
+torchvision
+transformers>=4.57
+peft>=0.17
+accelerate
+datasets
+pandas
+pyarrow
+pillow
+safetensors
+openai
+math-verify

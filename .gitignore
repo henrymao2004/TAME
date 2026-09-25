@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/
+runs/
+sae/
+analysis/
+traces/
+wandb/
+.env
